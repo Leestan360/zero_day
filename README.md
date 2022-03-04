@@ -1,2 +1,3 @@
-```This is a project to show how to use vagrant in your computer
+```
+    This is a project using vagrant
 ```
